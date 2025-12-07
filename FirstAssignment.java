@@ -13,4 +13,4 @@ public class FirstAssignment {
         System.out.println("Section: " + section);
         System.out.println("Branch: " + branch);
     }
-}
+ }
